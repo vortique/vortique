@@ -14,7 +14,8 @@ I'm a software developer still learning and growing. The programming languages I
 ### Future Projects
 
 - [ ] GUI File Explorer in C#.
-- [ ] Writing better Windows core programs. (like File Explorer, Notepad, Paint etc. (Maybe))
+- [ ] Writing better Windows core programs. (like File Explorer, Notepad, Paint etc.)
+- [ ] Making working AI model with Python. (I'm currently learning the basics of AI, but working hard to improve.)
 
 ### Programming Languages I Want to Learn in the Future
 
