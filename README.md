@@ -1,16 +1,23 @@
-## Hi there 👋
+## Vortique's Profile 🌌
 
-<!--
-**vortique/vortique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visual Studio IDE](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-Here are some ideas to get you started:
+**Hello, my name is Bahadir. But you can call me "vortique".**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer still learning and growing. The programming languages I use most are C# and Python. And I want to learn many more in the future.
+
+### Projects I'm Currently Working On
+
+- CLIExplorer - Terminal-based file explorer in C#.
+- VortiqueUtils - Re-implementations of UNIX commands in C#.
+
+### Future Projects
+
+- [ ] GUI File Explorer in C#.
+- [ ] Writing better Windows core programs. (like File Explorer, Notepad, Paint etc. (Maybe))
+
+### Programming Languages I Want to Learn in the Future
+
+- C++ - For robotics.
+- SQL - For database tasks.
+- Maybe C - I'm interested in low-level development because of Linux, but it's challenging.
