@@ -24,4 +24,4 @@ I'm a software developer still learning and growing. The programming languages I
 - Maybe C - I'm interested in low-level development because of Linux, but it's challenging.
 
 ### Contact
-Instagram - [real_vortique](https://www.instagram.com/real_vortique/)
+Instagram - [@real_vortique](https://www.instagram.com/real_vortique/)
