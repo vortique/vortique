@@ -22,5 +22,3 @@ I'm a software developer still learning and growing. The programming languages I
 - C++ - For robotics.
 - SQL - For database tasks.
 - Maybe C - I'm interested in low-level development because of Linux, but it's challenging.
-
-![Anime](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR5bGZ0b3hrcm9oc2tyd3Y4Y2xpN2M5bWdpeHEybndscTBxbzgyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tUnSstz3Xa17a/giphy.gif)
