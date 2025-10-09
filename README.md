@@ -4,4 +4,4 @@
 
 **Hello, my name is Bahadir. But you can call me "vortique".**
 
-![...](https://media1.tenor.com/m/tzmDcb2FVawAAAAC/hoshino-aqua.gif)
+![a](https://media1.tenor.com/m/tzmDcb2FVawAAAAC/hoshino-aqua.gif)
