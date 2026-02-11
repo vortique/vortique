@@ -4,4 +4,4 @@
 
 **Hello, my name is Bahadir. But you can call me "vortique".**
 
-![just-miyabi](https://i.pinimg.com/1200x/e9/9c/c5/e99cc5906da542ac599442b29bae4c8e.jpg)
+![just-teto](https://i.pinimg.com/1200x/dc/86/4e/dc864ea462b1f4bb3297e42fae2fddbe.jpg)
